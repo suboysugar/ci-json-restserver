@@ -1,0 +1,9 @@
+浅谈php中使用绝对路径和相对路径
+http://www.2cto.com/kf/201207/139830.html
+
+php调试方法：
+var_dump($row);
+
+
+row_array取一行数据
+result_array取多行数据
